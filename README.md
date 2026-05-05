@@ -1,4 +1,4 @@
-# Open-Information-Design-System
+# Welcome to the Open Information Design System repository
 
 This repository contains all code for the Open Information Design System (OIDS), by the Welsh Queer Press.
 
